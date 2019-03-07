@@ -1,0 +1,24 @@
+{
+  "name": "web-ui-bot",
+  "version": "1.0.0",
+  "description": "bot integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.php"
+  },
+  "author": "Tim",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "d3-request": "^1.0.6",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothy-janssen/lead-front-end.git"
+  }
+}
